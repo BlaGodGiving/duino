@@ -74,6 +74,7 @@
           "checksum": "SHA-256:154f781f890443385b3cf68a606cae4a67cb42c7ee7b3cda7171f333cbcb4745",
           "size": "41172157",
           "boards": [
+			{"name": "RGduino"},
             {"name": "Nucleo-144"},
             {"name": "Nucleo-64"},
             {"name": "Nucleo-32"},
@@ -133,6 +134,7 @@
           "checksum": "SHA-256:5ec259844295b7a93bd36c6eb5c984ffe30d628cc30980c01c8371ffc5a509e1",
           "size": "41536765",
           "boards": [
+			{"name": "RGduino"},
             {"name": "Nucleo-144"},
             {"name": "Nucleo-64"},
             {"name": "Nucleo-32"},
@@ -192,6 +194,7 @@
           "checksum": "SHA-256:b18c951e8968945f1aa75192c6e2f11df22ae1281b8ecc06ab4424e91df74c99",
           "size": "42463756",
           "boards": [
+			{"name": "RGduino"},
             {"name": "Nucleo-144"},
             {"name": "Nucleo-64"},
             {"name": "Nucleo-32"},
@@ -251,6 +254,7 @@
           "checksum": "SHA-256:f6797845516c459f166b451d439d003b15cb8681da6e5d53830c451d80ae3753",
           "size": "42338079",
           "boards": [
+			{"name": "RGduino"},
             {"name": "Nucleo-144"},
             {"name": "Nucleo-64"},
             {"name": "Nucleo-32"},
@@ -310,6 +314,7 @@
           "checksum": "SHA-256:31fa78777834e869bd488e34e53c47a03f0f3dd6c63a3a2c5e0039d0baa8fcb1",
           "size": "43417522",
           "boards": [
+			{"name": "RGduino"},
             {"name": "Nucleo-144"},
             {"name": "Nucleo-64"},
             {"name": "Nucleo-32"},
