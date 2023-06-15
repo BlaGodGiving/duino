@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32-2.0.0.zip",
+          "url": "http://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32-2.0.0.zip",
           "archiveFileName": "STM32-2.0.0.zip",
           "checksum": "SHA-256:b78859ccb1d1f90e1c84a93fcacda4fef2316ab47ae585c8fc01013cb7028436",
 			"size": "4631372",
@@ -314,7 +314,7 @@
             },
             {
               "host": "all",
-              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.7.0/CMSIS-5.7.0.tar.bz2",
+              "url": "http://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.7.0/CMSIS-5.7.0.tar.bz2",
               "archiveFileName": "CMSIS-5.7.0.tar.bz2",
               "checksum": "SHA-256:0b04b0f214e483bcc360cda985cddc0de8031714019ceabcda4770d510b82bfe",
               "size": "26151901"
@@ -328,7 +328,7 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32Tools-2.0.0-windows.zip",
+              "url": "http://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32Tools-2.0.0-windows.zip",
               "archiveFileName": "STM32Tools-2.0.0-windows.zip",
 				"checksum": "SHA-256:7a05f76e12d3ae35f7762bee13c2d18b2056cb303a7dd8ce99de1555afa0dc3c",
 				"size": "6940176"
