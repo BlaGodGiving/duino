@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "STMicroelectronics",
-      "websiteURL": "https://github.com/stm32duino",
-      "maintainer": "STMicroelectronics",
-      "email": "stmduino@st.com",
+      "name": "RGduino",
+      "websiteURL": "https://rg-robotics.ru/",
+      "maintainer": "RGduino",
+      "email": "iblagodatskiy@rg-gr.ru",
       "help": {
-        "online": "http://www.stm32duino.com/"
+        "online": "https://rg-robotics.ru/"
       },
       "platforms": [
         {
