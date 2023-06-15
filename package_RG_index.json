@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "RGduino",
-      "websiteURL": "https://github.com/stm32duino",
+      "websiteURL": "https://github.com",
       "maintainer": "RGduino",
       "email": "stmduino@st.com",
       "help": {
@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "RGduino",
-          "architecture": "rg",
+          "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
           "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
