@@ -16,7 +16,7 @@
           "category": "Contributed",
 		  "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=RGtest01.zip",
           "archiveFileName": "RGtest01.zip",
-          "checksum": "SHA-256:5ae05ca37a1309d21d65e520a3aa9c8dcf6cce7644002115fb6c43c9a7f45696",
+          "checksum": "MD5:8687e6ce6572d9078e7209bf88e04a06",
           "size": "11568774",
           "boards": [
             {"name": "RG based boards"}
