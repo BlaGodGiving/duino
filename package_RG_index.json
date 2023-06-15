@@ -1,36 +1,30 @@
 {
   "packages": [
     {
-      "name": "Microsoft",
-      "maintainer": "Microsoft.IoT",
-      "websiteURL": "https://github.com/ms-iot/iot-utilities/tree/master/IotCoreAppDeployment/ArduinoIde/",
-      "email": "bfjelds@microsoft.com",
+      "name": "GyverCore",
+      "maintainer": "AlexGyver",
+      "websiteURL": "https://alexgyver.ru",
+      "email": "",
       "help": {
-        "online": "http://developer.microsoft.com/en-us/windows/iot/IotCoreAppDeployment_ArduinoIde.htm"
+        "online": "https://github.com/AlexGyver/GyverCore"
       },
-      "platforms": [
-        {
-          "name": "Windows 10 Iot Core",
-          "architecture": "win10",
-          "version": "1.0.0",
+      "platforms": [        
+		{
+          "name": "GyverCore",
+          "architecture": "avr",
+          "version": "2.0.4",
           "category": "Contributed",
-          "help": {
-            "online": "http://developer.microsoft.com/en-us/windows/iot/IotCoreAppDeployment_ArduinoIde.htm"
-          },
-          "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=RGtest01.zip",
-          "archiveFileName": "RGtest01.zip",
-          "checksum": "SHA-256:5ae05ca37a1309d21d65e520a3aa9c8dcf6cce7644002115fb6c43c9a7f45696",
-          "size": "11568774",
-          "help": {
-                    "online": "http://developer.microsoft.com/en-us/windows/iot/IotCoreAppDeployment_ArduinoIde.htm"
-          },
+		  "url": "https://github.com/AlexGyver/GyverCore/releases/download/GyverCore-2.0.4/GyverCore.zip",
+          "archiveFileName": "GyverCore.zip",
+          "checksum": "MD5:44c9f5abbf50d6f282ca1a3d4ee8f51b",
+          "size": "59051979",
           "boards": [
-            {"name": "RGtest01"}
+            {"name": "ATmega328 based boards"}
           ],
-          "toolsDependencies":[]
+          "toolsDependencies": []
         }
       ],
-      "tools":[]
+      "tools": []
     }
   ]
 }
