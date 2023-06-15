@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
           "archiveFileName": "STM32-2.0.0.tar.bz2",
-          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
+          "checksum": "SHA-256:30a248d836cf99a32b2b24f8e39d789e5208b041431aabeddd52374adb15dfcf",
+		  "size": "15881728",
           "boards": [
             {"name": "RGduino"}
           ],
@@ -356,8 +356,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-windows.tar.bz2",
               "archiveFileName": "STM32Tools-2.0.0-windows.tar.bz2",
-              "checksum": "SHA-256:6316ffd1667344952bc5e16ff60783f9b4211d1eb54fc0d0c28e836b1490b717",
-              "size": "2486087"
+              "checksum": "SHA-256:73cf522beacc8cfa9e447f22cc29170300cd3a95ea6830385ec87ec0303a2d19",
+			  "size": "10435584"
             },
             {
               "host": "x86_64-apple-darwin",
