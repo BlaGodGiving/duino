@@ -16,7 +16,8 @@
           "category": "Contributed",
           "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=RG-0.1.0.tar",
           "archiveFileName": "RG-0.1.0.tar",
-          
+          "checksum": "",
+          "size": "",
 		  
           "boards": [
             {"name": "RGduino"}
