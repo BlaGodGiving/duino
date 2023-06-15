@@ -14,37 +14,12 @@
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
-          "archiveFileName": "STM32-2.0.0.tar.bz2",
-          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
+          "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=RG-0.1.0.tar",
+          "archiveFileName": "RG-0.1.0.tar",
+          "checksum": "SHA-256:30a248d836cf99a32b2b24f8e39d789e5208b041431aabeddd52374adb15dfcf",
+          "size": "15881728",
           "boards": [
-            {"name": "RGduino"},
-            {"name": "Nucleo-64"},
-            {"name": "Nucleo-32"},
-            {"name": "Discovery"},
-            {"name": "Eval"},
-            {"name": "STM32MP1 series coprocessor"},
-            {"name": "Generic STM32F0 series"},
-            {"name": "Generic STM32F1 series"},
-            {"name": "Generic STM32F2 series"},
-            {"name": "Generic STM32F3 series"},
-            {"name": "Generic STM32F4 series"},
-            {"name": "Generic STM32F7 series"},
-            {"name": "Generic STM32G0 series"},
-            {"name": "Generic STM32G4 series"},
-            {"name": "Generic STM32H7 Series"},
-            {"name": "Generic STM32L0 series"},
-            {"name": "Generic STM32L1 series"},
-            {"name": "Generic STM32L4 series"},
-            {"name": "Generic STM32L5 series"},
-            {"name": "Generic STM32WB series"},
-            {"name": "Electronic speed controllers"},
-            {"name": "LoRa boards"},
-            {"name": "3D printer boards"},
-            {"name": "Generic Flight Controllers"},
-            {"name": "Garatronic-McHobby"},
-            {"name": "Midatronics boards"}
+            {"name": "RGduino"}
           ],
           "toolsDependencies": [
             {
@@ -64,33 +39,6 @@
             }
           ]
         },
-        {
-          "name": "STM8 MCU based boards",
-          "architecture": "stm8",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM8/releases/download/1.0.0/STM8-1.0.0.tar.bz2",
-          "archiveFileName": "STM8-1.0.0.tar.bz2",
-          "checksum": "SHA-256:f38055bfd8199feea66f02a3a25405d07aa3635f57b2adf15e93112b2d556584",
-          "size": "374456",
-          "boards": [
-            {"name": "Nucleo_8S208RB"},
-            {"name": "Nucleo_8L152R8"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "STMicroelectronics",
-              "name": "cxppstm8",
-              "version": "4.1.3"
-            },
-            {
-              "packager": "STMicroelectronics",
-              "name": "STM8Tools",
-              "version": "1.0.0"
-            }
-          ]
-        }
-      ],
       "tools": [
         {
           "name": "xpack-arm-none-eabi-gcc",
@@ -379,10 +327,10 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-windows.tar.bz2",
-              "archiveFileName": "STM32Tools-2.0.0-windows.tar.bz2",
-              "checksum": "SHA-256:6316ffd1667344952bc5e16ff60783f9b4211d1eb54fc0d0c28e836b1490b717",
-              "size": "2486087"
+              "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32Tools-2.0.0-windows.tar",
+              "archiveFileName": "STM32Tools-2.0.0-windows.tar",
+              "checksum": "SHA-256:73cf522beacc8cfa9e447f22cc29170300cd3a95ea6830385ec87ec0303a2d19",
+              "size": "10435584"
             },
             {
               "host": "x86_64-apple-darwin",
