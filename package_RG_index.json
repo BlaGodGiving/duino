@@ -332,7 +332,8 @@
               "host": "i686-mingw32",
               "url": "https://appupdate.rg-gr.ru/firmwares?user=RGduino&password=ap12345&file=STM32Tools-2.0.0-windows.tar",
               "archiveFileName": "STM32Tools-2.0.0-windows.tar",
-              
+              "checksum": "SHA-256:73cf522beacc8cfa9e447f22cc29170300cd3a95ea6830385ec87ec0303a2d19",
+              "size": "10191"
             },
             {
               "host": "x86_64-apple-darwin",
