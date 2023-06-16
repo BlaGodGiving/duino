@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32-2.0.0.zip",
           "archiveFileName": "STM32-2.0.0.zip",
-          "checksum": "SHA-256:7f08201630f1479021c26f6295014d2d7d1b01f73347d957c1e86515177730ba",
-          "size": "4615824",
+          "checksum": "SHA-256:66c898609d9fa429e98a0dbb1653307e48d96e55882fce5f1dc2b5c420652f15",
+          "size": "4621036",
           "boards": [
             {"name": "RGduino"}
           ],
@@ -330,8 +330,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32Tools-2.0.0-windows.zip",
               "archiveFileName": "STM32Tools-2.0.0-windows.zip",
-              "checksum": "SHA-256:eb85dd4317368ee409557986072f643e68716b8d390cf5d1a1fa1097ffdcb862",
-              "size": "6926582"
+              "checksum": "SHA-256:b4e53ff929f9e4eead4d573d0b204e73c9342d762178d67f5ce7e12aa97ac25e",
+              "size": "6930764"
             },
             {
               "host": "x86_64-apple-darwin",
