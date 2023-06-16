@@ -46,7 +46,7 @@
             {"name": "Garatronic-McHobby"},
             {"name": "Midatronics boards"}
           ],
-          "toolsDependencies": [
+          "toolsDependencies": [ 
             {
               "packager": "STMicroelectronics",
               "name": "xpack-arm-none-eabi-gcc",
