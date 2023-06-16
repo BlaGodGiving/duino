@@ -2,22 +2,22 @@
   "packages": [
     {
       "name": "RGduino",
-      "websiteURL": "https://github.com/stm32duino",
+      "websiteURL": "https://rg-robotics.ru/",
       "maintainer": "RGduino",
-      "email": "stmduino@st.com",
+      "email": "iblagodatskiy@rg-gr.ru",
       "help": {
-        "online": "http://www.stm32duino.com/"
+        "online": "https://rg-robotics.ru/"
       },
       "platforms": [ 
         {
-          "name": "STM32 MCU based boards",
+          "name": "RGduino",
           "architecture": "stm32",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/stm32duino/Arduino_Core_STM32/releases/download/2.0.0/STM32-2.0.0.tar.bz2",
-          "archiveFileName": "STM32-2.0.0.tar.bz2",
-          "checksum": "SHA-256:31e7a98afdc595335acbd111b39563350eb63bd0bcd005aebbe6fe1f8bad26fe",
-          "size": "38496810",
+          "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32-2.0.0.zip",
+          "archiveFileName": "STM32-2.0.0.zip",
+          "checksum": "SHA-256:b78859ccb1d1f90e1c84a93fcacda4fef2316ab47ae585c8fc01013cb7028436",
+          "size": "4631372",
           "boards": [
             {"name": "RGduino"}
           ],
@@ -328,10 +328,10 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.0.0/STM32Tools-2.0.0-windows.tar.bz2",
-              "archiveFileName": "STM32Tools-2.0.0-windows.tar.bz2",
-              "checksum": "SHA-256:6316ffd1667344952bc5e16ff60783f9b4211d1eb54fc0d0c28e836b1490b717",
-              "size": "2486087"
+              "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32Tools-2.0.0-windows.zip",
+              "archiveFileName": "STM32Tools-2.0.0-windows.zip",
+              "checksum": "SHA-256:7a05f76e12d3ae35f7762bee13c2d18b2056cb303a7dd8ce99de1555afa0dc3c",
+              "size": "6940176"
             },
             {
               "host": "x86_64-apple-darwin",
